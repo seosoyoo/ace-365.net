@@ -72,12 +72,12 @@ export default function FooterSection() {
     Build by Soyo
   </p>
 
-  <Link
-    href="https://c66lottery.com"
-    className="hidden"
-  >
-    66 Lottery
-  </Link>
+  <a
+  href="https://c66lottery.com"
+  className="hidden"
+>
+  66 Lottery
+</a>
 </div>
             </div>
         </footer>
