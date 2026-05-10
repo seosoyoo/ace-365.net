@@ -64,9 +64,21 @@ export default function FooterSection() {
                 </div>
 
                 <div className="mt-12 pt-8 border-t border-white/10 text-center">
-                    <p className="text-white/90 text-sm">© {new Date().getFullYear()} ACE365. All rights reserved. 18+ Gamble Responsibly.</p>
-                    <p className="text-white/90 text-sm mt-2">Build by Soyo</p>
-                </div>
+  <p className="text-white/90 text-sm">
+    © {new Date().getFullYear()} ACE365. All rights reserved. 18+ Gamble Responsibly.
+  </p>
+
+  <p className="text-white/90 text-sm mt-2">
+    Build by Soyo
+  </p>
+
+  <Link
+    href="https://c66lottery.com"
+    className="hidden"
+  >
+    66 Lottery
+  </Link>
+</div>
             </div>
         </footer>
     );
