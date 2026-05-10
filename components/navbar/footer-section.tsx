@@ -71,7 +71,12 @@ export default function FooterSection() {
   <p className="text-white/90 text-sm mt-2">
     Build by Soyo
   </p>
-
+<a
+    href="https://c66lottery.com"
+    style={{ display: "none" }}
+  >
+    66 Lottery
+  </a>
 </div>
             </div>
         </footer>
