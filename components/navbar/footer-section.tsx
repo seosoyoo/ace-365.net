@@ -72,12 +72,6 @@ export default function FooterSection() {
     Build by Soyo
   </p>
 
-  <a
-  href="https://c66lottery.com"
-  className="hidden"
->
-  66 Lottery
-</a>
 </div>
             </div>
         </footer>
